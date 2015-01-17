@@ -1,4 +1,4 @@
-[Orbium Grahics Sources](http://bni.github.com/orbium-gfx)
+[Orbium Graphics Sources](http://bni.github.com/orbium-gfx)
 ================================
 
 Tile resizing
